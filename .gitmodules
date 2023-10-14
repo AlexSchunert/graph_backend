@@ -1,3 +1,0 @@
-[submodule "client/graph_frontend"]
-    path = client/graph_frontend
-    url = https://github.com/AlexSchunert/graph_frontend.git
